@@ -2,7 +2,7 @@
   "name": "client",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Jasleen8801.github.io/web3-krypt",
+  "homepage": "https://Jasleen8801.github.io/web3.0-krypt",
   "type": "module",
   "scripts": {
     "dev": "vite",
